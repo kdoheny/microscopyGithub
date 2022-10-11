@@ -1,0 +1,26 @@
+{
+    "id": "5F73563F",
+    "path": "A:/Github/microscopy/R/metadataLandmarkCombine.R",
+    "project_path": "R/metadataLandmarkCombine.R",
+    "type": "r_source",
+    "hash": "76023731",
+    "contents": "",
+    "dirty": false,
+    "created": 1665511688028.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "1,111",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1665514307,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1665514307085,
+    "read_only": false,
+    "read_only_alternatives": []
+}
