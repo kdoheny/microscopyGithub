@@ -1,4 +1,4 @@
-Package: microscopy
+Package: LeicaMicroscopy
 Type: Package
 Title: Processes Wing Image Data for Use in Wings4 Pipeline
 Version: 0.1.0
